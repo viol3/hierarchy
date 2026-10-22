@@ -1,0 +1,28 @@
+{
+  "name": "com.viol3.hierarchy",
+  "version": "0.0.1",
+  "displayName": "Viol3's Hierarchy",
+  "description": "A cleaner, more useful Hierarchy window. Component icons you can click to toggle, an active checkbox on every row, tree lines, zebra stripes, folder icons for empty groups, section headers and per-object row colors shared through version control.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": [
+    "hierarchy",
+    "editor",
+    "icons",
+    "organization",
+    "folders",
+    "colors",
+    "tool"
+  ],
+  "author": {
+    "name": "viol3",
+    "url": "https://github.com/viol3"
+  },
+  "documentationUrl": "https://github.com/viol3/hierarchy#readme",
+  "changelogUrl": "https://github.com/viol3/hierarchy/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/viol3/hierarchy/blob/main/LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viol3/hierarchy.git"
+  }
+}
