@@ -1,5 +1,11 @@
 # Viol3's Hierarchy
 
+
+
+https://github.com/user-attachments/assets/50d41b2a-faee-4813-a67b-00432e5e19a4
+
+
+
 A cleaner, more useful Hierarchy window. See what every object holds at a glance, toggle objects and components without opening the Inspector, and keep big scenes organized with colors, icons, folders and headers.
 
 > **Early development:** This package is at an early stage (v0.0.1), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/hierarchy/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
